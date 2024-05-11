@@ -1,7 +1,8 @@
 
 **Description**
 Our task is to predict the target variable based on various characteristics of clients - whether the client was overdue for 90 days or more or not (and if he was, the bank will not issue a loan to this client, otherwise it will be)
-You can try this app [here](https://credit-scoring-ml-service.streamlist.app //)!
+
+You can try this app [here](https://credit-scoring-ml-service.streamlist.app/)!
 
 **Files**:
 - `app.py`: streamlit app file
@@ -15,8 +16,9 @@ To do this, we used the credit_scoring dataset, the description of which you can
 **Target variable**
 - `SeriousDlqin2yrs`: the client was overdue for 90 days or more
 
+
 **Features**
-- `RevolvingUtilizationOfUnsecuredLines': total balance on credit cards and personal lines of credit except real estate and no installation debt
+- `RevolvingUtilizationOfUnsecuredLines`: total balance on credit cards and personal lines of credit except real estate and no installation debt
 like car loans divided by the sum of credit limits)
 - `age': age of the borrower
 - `NumberOfTime30-59DaysPastDueNotWorse`: how many times in the last 2 years there has been a delay of 30-59 days
