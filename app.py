@@ -100,7 +100,7 @@ def write_user_data(df):
 
 def write_prediction(prediction):
   st.write("## Prediction")
-  st.write(f'The probability of delayed payments: {round(prediction[0], 2) * 100}%')
+  st.write(f'The probability of delayed payments: {prediction *100}%')
   if prediction < 0.5:
     image = Image.open('data/approved.jpg')
 
