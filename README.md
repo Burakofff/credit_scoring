@@ -2,7 +2,7 @@
 **Description**
 Our task is to predict the target variable based on various characteristics of clients - whether the client was overdue for 90 days or more or not (and if he was, the bank will not issue a loan to this client, otherwise it will be)
 
-You can try this app [here](https://credit-scoring-ml-service.streamlist.app/)!
+You can try this app [here](https://credit-scoring-ml-service.streamlit.app/)!
 
 **Files**:
 - `app.py`: streamlit app file
