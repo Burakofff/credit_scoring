@@ -22,7 +22,7 @@ To do this, we used the credit_scoring dataset, the description of which you can
 like car loans divided by the sum of credit limits)
 - `age`: age of the borrower
 - `NumberOfTime30-59DaysPastDueNotWorse`: how many times in the last 2 years there has been a delay of 30-59 days
-- `DebtRatio': monthly expenses (payment of debts, alimony, living expenses) divided by monthly income
+- `DebtRatio`: monthly expenses (payment of debts, alimony, living expenses) divided by monthly income
 - `MonthlyIncome`: monthly income
 - `NumberOfOpenCreditLinesAndLoans`: the number of open loans (e.g. car loan or mortgage) and credit cards
 - `NumberOfTimes90DaysLate`: how many times there was a delay (90 days or more)
